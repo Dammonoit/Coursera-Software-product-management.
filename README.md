@@ -2,4 +2,4 @@
  By Dharmendra Choudhary.
  VIT University(Vellore),TN,India.
 
-This is solution of the course Software Product Management from University of Alberta(Canada).
+This is a solution of the course Software Product Management from University of Alberta(Canada).
